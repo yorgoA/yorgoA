@@ -1,9 +1,8 @@
-# 🌐 Hi, I’m Yorgo Aoun  
+# Hi, I’m Yorgo Aoun  
 **“If something can be automated, I’ll automate it.”**
 
 ### Application Analyst @ **Bedrock Streaming**  
 Automation enthusiast · Go adventurer · Cloud, CI/CD & Observability explorer  
-*(This is a ✨ _special_ ✨ repository: the README appears on my GitHub profile.)*
 
 ---
 
