@@ -8,7 +8,7 @@ ISTQB® Certified (CTFL v4.0) · Preparing for Automation Engineering certificat
 ---
 
 ## 👋 About Me
-Application Analyst & QA Automation Engineer focusing on **backend QA tooling**, **process automation**, **ad-tech flows**, and **observability**.  
+Application Analyst & QA Automation Engineer focusing on **test-automation**, **backend QA tooling**, **process automation**, and **observability**.  
 I build internal tools that speed up QA, improve reliability, and provide technical visibility across streaming platforms.
 
 ---
@@ -16,7 +16,7 @@ I build internal tools that speed up QA, improve reliability, and provide techni
 # 🧩 What I Do
 
 ## 🧪 Multi-platform Test Automation
-- **Playwright** tests for operator OTT boxes (Free, Orange, Vodafone…)  
+- **Playwright** tests for operator OTT boxes (Free, Orange, Vodafone…) & Web platforms
 - **Robot Framework** with Selenium (web) + Appium (mobile), fully Dockerized  
 - Python tools to migrate legacy test systems (ReferTest → Squash)
 
@@ -71,7 +71,7 @@ I build internal tools that speed up QA, improve reliability, and provide techni
 | Tech | How I Learned It |
 |------|------------------|
 | **Go** | Building Proxy Alchemist (MITM proxy, rewriting engine, concurrency) |
-| **Playwright** | Automating OTT operator boxes in CI workflows |
+| **Playwright** | Automating OTT operator boxes & Web platforms in CI workflows |
 | **Robot Framework** | Creating Docker-based web/mobile test grids |
 | **Airtable** | Designing workflows, JS/TS automations, QA dashboards |
 | **n8n** | Automating QA processes and PO-facing flows |
