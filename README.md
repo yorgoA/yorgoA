@@ -4,7 +4,7 @@
 
 ### QA Automation Engineer @ **Euronews**
 
-Automation enthusiast · Go adventurer · Cloud, CI/CD & Observability explorer  
+Automation enthusiast · AI adventurer · Cloud, CI/CD & Observability explorer  
 ISTQB® Certified (CTFL v4.0) · Preparing for Automation Engineering certification
 
 ---
